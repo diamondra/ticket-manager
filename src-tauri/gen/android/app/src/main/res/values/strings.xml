@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ticket Manager</string>
+    <string name="main_activity_title">Ticket Manager</string>
+</resources>
